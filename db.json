@@ -64,21 +64,6 @@
         },
         "username": "juliusomo"
       }
-    },
-    {
-      "commentId": "1",
-      "id": "1.1",
-      "content": "@amyrobson, yeah very impresive. Keep ot up\n",
-      "createdAt": "1 February 2023",
-      "score": "0",
-      "replyingTo": "amyrobson",
-      "user": {
-        "image": {
-          "png": "./images/avatars/image-juliusomo.png",
-          "webp": "./images/avatars/image-ramsesmiron.webp"
-        },
-        "username": "juliusomo"
-      }
     }
   ]
 }
